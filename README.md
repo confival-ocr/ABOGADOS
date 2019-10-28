@@ -35,14 +35,10 @@ Se realiza rasterización del triángulo generado de forma automática con el us
 
 ## Anti-aliasing
 Técnicas utilizadas: SSAA SuperSampling Anti-Aliasing
-Esta técnica suaviza bordes dentados y pixelados en una escena a renderizar.  Se pretender mejorar la calidad a partir de reducción de espaciado. Implementar la partición del píxel aumenta la calidad de imagen n veces más grande según sea establecido.
+Esta técnica suaviza bordes dentados y pixelados en una escena a renderizar.  Se pretende mejorar la calidad a partir de reducción de espaciado. Implementar la partición del píxel aumenta la calidad de imagen n veces más grande según sea establecido.
 
 ## Shading
 Efecto en la cual produce interpolación de colores de acuerdo con su posición dentro de un triángulo y su cercanía a los vértices.
 
 ## Referencias
 * [Supersampling](https://en.wikipedia.org/wiki/Supersampling)
-
-## Entrega
-
-* Plazo: 27/10/19 a las 24h.
